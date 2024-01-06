@@ -1,3 +1,4 @@
 *.terraform
 *web02_key
 *web02_key.pub
+*.backup
